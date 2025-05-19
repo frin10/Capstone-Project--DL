@@ -1,8 +1,6 @@
 # Capstone-Project--DL
 
-# ASL Alphabet Detector
-
-A real-time American Sign Language (ASL) alphabet recognition system developed using Convolutional Neural Networks (CNNs) and OpenCV. The system is trained on a labeled dataset of ASL hand gestures and deployed for real-time inference through a webcam.
+A real-time American Sign Language (ASL)  recognition system developed using Convolutional Neural Networks (CNNs) and OpenCV. The system is trained on a labeled dataset of ASL hand gestures and deployed for real-time inference through a webcam.
 
 ---
 

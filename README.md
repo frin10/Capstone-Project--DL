@@ -43,13 +43,6 @@ Install dependencies:
 
 pip install -r requirements.txt
 Training the Model
-Ensure that your dataset is structured as follows:
-
-ASL Dataset/
-└── A/
-└── B/
-└── C/
-...
 Then run the training script: python model.py
 This will preprocess the data, train the CNN model, and save the trained model as asl_cnn_model.keras.
 

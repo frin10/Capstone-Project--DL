@@ -4,7 +4,6 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras import layers, models
 
-# Limit GPU memory growth (optional for stability)
 gpus = tf.config.experimental.list_physical_devices('GPU')
 if gpus:
     for gpu in gpus:

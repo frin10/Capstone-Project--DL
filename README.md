@@ -40,8 +40,10 @@ Create a virtual environment (optional):
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 Install dependencies:
-
 pip install -r requirements.txt
+
+Dataset (Kaggle) :https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
 Training the Model
 Then run the training script: python model.py
 This will preprocess the data, train the CNN model, and save the trained model as asl_cnn_model.keras.
@@ -56,3 +58,6 @@ Acknowledgments
 TensorFlow and Keras for deep learning libraries
 
 OpenCV for real-time computer vision
+
+References :  1) https://www.sciencedirect.com/science/article/pii/S2666990021000471
+              2) https://www.sciencedirect.com/science/article/pii/S2773186325000143

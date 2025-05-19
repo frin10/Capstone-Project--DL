@@ -36,18 +36,6 @@ The model is compiled using the Adam optimizer and categorical crossentropy loss
 
 ---
 
-## Folder Structure
-ASL-Alphabet-Detector/
-│
-├── ASL Dataset/ # Folder containing images categorized by class
-├── model.py # Model training script
-├── predict.py # Real-time prediction script using OpenCV
-├── asl_cnn_model.keras # Trained model file
-├── requirements.txt # Required Python packages
-├── README.md # Project documentation
-├── labels.txt # Optional: Class labels file
-└── .gitignore # Files/directories to ignore in version control
-
 Create a virtual environment (optional):
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate

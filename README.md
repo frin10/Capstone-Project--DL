@@ -58,3 +58,6 @@ Acknowledgments
 TensorFlow and Keras for deep learning libraries
 
 OpenCV for real-time computer vision
+
+References :  1) https://www.sciencedirect.com/science/article/pii/S2666990021000471
+              2) https://www.sciencedirect.com/science/article/pii/S2773186325000143
